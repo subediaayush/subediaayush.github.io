@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<p align="center"><a href="https://subediaayush.github.io"><img width="80%" alt="Aayush Subedi" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-Another Software Engineer
+#### It's me Aayush Subedi
 <br/>
 <br/>
+
 **About me**
 
 - 💼 Freelance Software Developer
@@ -28,12 +25,7 @@ Another Software Engineer
 <code><img width="24" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
 <code><img width="24" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
  <code><img width="24" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
-<br/>
-<br/>
 
-| <a href="https://github.com/subediaayush/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subediaayush&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aayush's github stats" /></a> | <a href="https://github.com/subediaayush/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subediaayush&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<br />
 
 <a href="https://twitter.com/_aayushsubedi">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
